@@ -28,6 +28,7 @@ Before running the Python script, you must compile the C++ code into a dynamic l
 **For Windows (using MinGW):**
 ```bash
 g++ -shared -o random_algorithm.dll random_algorithm.cpp
+```
 
 ### 📦 Quick Start (For Non-Developers)
 If you just want to use the tool without compiling the code, I have provided the pre-compiled binaries:
