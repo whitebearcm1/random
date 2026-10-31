@@ -32,6 +32,6 @@ g++ -shared -o random_algorithm.dll random_algorithm.cpp
 
 ### 📦 Quick Start (For Non-Developers)
 If you just want to use the tool without compiling the code, I have provided the pre-compiled binaries:
-1. Download `main.exe` and `random_algorithm.dll`.
+1. Download `main.exe` and `random_algorithm.dll`.(Note: As this was built for immediate classroom use by my peers, binaries are committed directly. In a production environment, these would be managed via GitHub Releases.)
 2. Make sure **both files are in the same folder**.
 3. Double-click `main.exe` to run.
